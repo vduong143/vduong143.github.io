@@ -1,6 +1,6 @@
 ---
 title:  "Papers"
-layout: single
+layout: archive
 permalink: /papers/
 author_profile: true
 comments: true

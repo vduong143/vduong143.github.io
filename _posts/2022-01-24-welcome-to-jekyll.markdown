@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title:  "Welcome to Jekyll!"
 date:   2022-01-24 00:49:42 -0500
 categories: jekyll update

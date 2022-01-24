@@ -1,6 +1,6 @@
 ---
 title:  "About"
-layout: single
+layout: archive
 permalink: /
 author_profile: true
 comments: true
@@ -12,5 +12,5 @@ Before starting at W&M, I worked as a graduate research assistant and completed 
 
 ### Education
 
-- **College of William & Mary** (2022 - )<br/>PhD Computer Science
-- **University of Rochester** (2014 - 2021)<br/>MS Computer Science<br/>BA Data Science<br/>BS Mathematics
+- **College of William & Mary** (2022 - )<br/>Ph.D. Computer Science
+- **University of Rochester** (2014 - 2021)<br/>M.S Computer Science<br/>B.A Data Science<br/>B.S Mathematics
