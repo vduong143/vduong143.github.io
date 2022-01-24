@@ -111,7 +111,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vqduong@wm.edu"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/viet-duong-431852a0/"
     - label: "Facebook"
