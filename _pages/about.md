@@ -1,12 +1,9 @@
 ---
 title:  "About"
 layout: single
-permalink: /
+permalink: /about/
 author_profile: true
 comments: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a first-year year PhD student at the [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php), College of William & Mary. My research concentration is in Natural Language Processing, Machine Learning, Social Media Mining, and Artificial Intelligence. I am interested in studying state-of-the-art learning methods, and applying them to solve real world problems.
