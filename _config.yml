@@ -282,14 +282,14 @@ defaults:
     values:
       layout: archive
       classes: wide
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: archive
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: archive
+  #     author_profile: true
+  #     read_time: true
+  #     comments: # true
+  #     share: true
+  #     related: true
