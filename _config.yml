@@ -280,15 +280,15 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archive
+      layout: single
       classes: wide
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: archive
-      author_profile: false
+      layout: single
+      author_profile: true
       read_time: true
       comments: # true
       share: true
