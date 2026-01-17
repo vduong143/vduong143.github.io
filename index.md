@@ -6,9 +6,9 @@ author_profile: true
 comments: true
 ---
 
-I am a second-year year PhD student at the [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php), College of William & Mary. My research concentration is in Deep Learning, Anomaly Detection, and Explainable Artificial Intelligence. I am interested in studying state-of-the-art learning methods, and applying them to solve real world problems.
+Viet Duong is a Ph.D. candidate in Computer Science at William & Mary, where he is advised by Dr. Huajie Shao. His research focuses on developing reliable and concept-based interpretable machine learning frameworks that leverage weak supervision to reduce reliance on costly expert annotation, enabling deployment in real-world and high-stakes settings. Viet’s work has been published in top-tier AI venues, including the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), where he received a Best Paper Award, the IEEE/ACM International Conference on Software Engineering (ICSE), and Transactions on Machine Learning Research (TMLR). In 2025, he received the Stephen K. Park Graduate Research Award from William & Mary. 
 
-Before starting at W&M, I worked as a graduate research assistant and completed my MS degree in Computer Science at the University of Rochester. Specifically, I worked on building neural-symbolic semantic parsing systems and automating natural language inference with [Lenhart Schubert](https://www.cs.rochester.edu/~schubert/). I was also involved in [VISTA Lab](https://www.cs.rochester.edu/u/jluo/#VISTA)'s COVID-19 projects for studying many impactful aspects of the pandemic using data collected from social media networks.
+Viet earned his M.S. in Computer Science and dual Bachelor’s degrees in Data Science and Mathematics from University of Rochester.
 
 ### Education
 
