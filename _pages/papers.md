@@ -10,7 +10,7 @@ comments: true
 
 **(\*Equal Contribution)** Yanfu Yan\*, **Viet Duong**\*, Huajie Shao, and Denys Poshyvanyk. _Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection_. International Conference on Software Engineering (ICSE), 2025.
 
-Zhengyi Zhou, Venson Shaw, Qiong Wu, WenLing Hsu, Guy Jacobson, Huajie Shao, **Viet Duong**. _Anomaly Detection Based on Multi-Modal Data Analysis_.  U.S. Patent Application US20250132970A1 (Assigned to AT&T Intellectual Property I, L.P. and William & Mary), 2025.
+Zhengyi Zhou, Venson Shaw, Qiong Wu, WenLing Hsu, Guy Jacobson, Huajie Shao, and **Viet Duong**. _Anomaly Detection Based on Multi-Modal Data Analysis_.  U.S. Patent Application US20250132970A1 (Assigned to AT&T Intellectual Property I, L.P. and William & Mary), 2025.
 
 ## 2024
 
