@@ -18,11 +18,11 @@ Zhengyi Zhou, Venson Shaw, Qiong Wu, WenLing Hsu, Guy Jacobson, Huajie Shao, and
 
 **Viet Duong**, Qiong Wu, Zhengyi Zhou, Eric Zavesky, Jiahe Chen, Xiangzhou Liu, Wen-Ling Hsu, and Huajie Shao. _General-Purpose Multi-Modal OOD Detection Framework._ Transactions on Machine Learning Research (TMLR), 2024.
 	
-Gene Louis Kim, Mandar Juvekar, Junis Ekmekciu, **Viet Duong**, and Lenhart Schubert. _Monotonic Inference with Unscoped Episodic Logical Forms: From Principles to System._ Journal of Logic, Language and Information 33, 2024
+Gene Louis Kim, Mandar Juvekar, Junis Ekmekciu, **Viet Duong**, and Lenhart Schubert. _Monotonic Inference with Unscoped Episodic Logical Forms: From Principles to System._ Journal of Logic, Language and Information 33, 2024.
 
 ## 2022
 
-Hanjia Lyu, Junda Wang, Wei Wu, **Viet Duong**, Xiyang Zhang, Timothy D. Dye, and Jiebo Luo. _Social media study of public opinions on potential COVID-19 vaccines: informing dissent, disparities, and dissemination._ Intelligent Medicine 2, 2022
+Hanjia Lyu, Junda Wang, Wei Wu, **Viet Duong**, Xiyang Zhang, Timothy D. Dye, and Jiebo Luo. _Social media study of public opinions on potential COVID-19 vaccines: informing dissent, disparities, and dissemination._ Intelligent Medicine 2, 2022.
 
 ## 2021
 
