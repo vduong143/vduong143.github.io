@@ -8,7 +8,9 @@ comments: true
 
 ## 2025
 
-**(\*Equal Contribution)** Yanfu Yan\*, **Viet Duong**\*, Huajie Shao, and Denys Poshyvanyk. "Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection". International Conference on Software Engineering (ICSE), 2025.
+**(\*Equal Contribution)** Yanfu Yan\*, **Viet Duong**\*, Huajie Shao, and Denys Poshyvanyk. _Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection_. International Conference on Software Engineering (ICSE), 2025.
+
+Zhengyi Zhou, Venson Shaw, Qiong Wu, WenLing Hsu, Guy Jacobson, Huajie Shao, **Viet Duong**. _Anomaly Detection Based on Multi-Modal Data Analysis_.  U.S. Patent Application US20250132970A1 (Assigned to AT&T Intellectual Property I, L.P. and William & Mary), 2025.
 
 ## 2024
 
@@ -23,8 +25,6 @@ Gene Louis Kim, Mandar Juvekar, Junis Ekmekciu, **Viet Duong**, and Lenhart Schu
 Hanjia Lyu, Junda Wang, Wei Wu, **Viet Duong**, Xiyang Zhang, Timothy D. Dye, and Jiebo Luo. _Social media study of public opinions on potential COVID-19 vaccines: informing dissent, disparities, and dissemination._ Intelligent Medicine 2, 2022
 
 ## 2021
-
-Lyu, H., Wu, W., Wang, J., Duong, V., Zhang, X., & Luo, J. (2021). **Social Media Study of Public Opinions on Potential COVID-19 Vaccines: Informing Dissent, Disparities, and Dissemination.** Intelligent medicine (2021).
 
 Gene Kim, **Viet Duong**, Xin Lu, and Lenhart Schubert. _A Transition-based Parser for Unscoped Episodic Logical Forms._ International Conference on Computational Semantics (IWCS), 2021.
 
